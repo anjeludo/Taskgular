@@ -1,4 +1,4 @@
 Taskgular
 =========
 
-Simple task manager built for an AngularJS Demo
+Simple task manager built for an AngularJS Demo ;)
